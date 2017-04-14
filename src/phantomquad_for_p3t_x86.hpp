@@ -1,5 +1,6 @@
 // gcc -O2 -march=core-avx2
 #include <cassert>
+#include <immintrin.h>
 
 class PhantomGrapeQuad{
 public:
